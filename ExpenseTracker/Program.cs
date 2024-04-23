@@ -8,8 +8,6 @@ class Program
 {
     static void Main(string[] args)
     {
-   
-
         Connection.ConnectionHelper();
     }
   
